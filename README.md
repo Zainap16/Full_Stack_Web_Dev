@@ -6,9 +6,11 @@ Cool Links:
 
 https://www.nslookup.io/domains/google.com/dns-records/ - DNS LookUP
 https://www.submarinecablemap.com/submarine-cable/firmina - Submarine Cable
+https://www.keybr.com/ - increase typing speed
 
+HTML Tags:
 
-
+![alt text](image.png)
 
 
 
