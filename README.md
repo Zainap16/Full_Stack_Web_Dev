@@ -10,8 +10,8 @@ https://www.keybr.com/ - increase typing speed
 
 HTML Tags:
 
-![alt text](image.png)
 
+![alt text](image-1.png)
 
 
 
