@@ -15,6 +15,7 @@ https://colorhunt.co/ - color palettes
 https://fonts.google.com/ - free fonts
 
 
+https://appbrewery.github.io/css-inspection/ - homework
 
 https://www.csfieldguide.org.nz/en/chapters/ - chekc this out
 
