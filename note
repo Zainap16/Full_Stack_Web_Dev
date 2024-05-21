@@ -7,7 +7,12 @@ Special characters:
 ./dog.png -- "." use the current directory (where item is current within the folder)
 
 
+font size:
 
+1px-pixel - 0.26mm
+1pt-point-0.35mm
+1em- 100% of parent, if boydis 20px then 2em would be 40px 
+1rem- 100% of root, move relative to it-- html, very recommended
 
 
 

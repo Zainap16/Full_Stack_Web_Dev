@@ -11,8 +11,12 @@ https://www.lipsum.com/ - free text/placxeholder text
 https://www.broipsum.com/ - free text/placxeholder text
 https://www.diffchecker.com/ - check difference of code
 https://picsum.photos/ - random pics
-HTML Tags:
+https://colorhunt.co/ - color palettes
+https://fonts.google.com/ - free fonts
 
+
+
+https://www.csfieldguide.org.nz/en/chapters/ - chekc this out
 
 
 
