@@ -10,6 +10,7 @@ https://www.keybr.com/ - increase typing speed
 https://www.lipsum.com/ - free text/placxeholder text
 https://www.broipsum.com/ - free text/placxeholder text
 https://www.diffchecker.com/ - check difference of code
+https://picsum.photos/ - random pics
 HTML Tags:
 
 
