@@ -1,0 +1,20 @@
+abslute paths -- C:/Projects/Images
+elative paths -- shoter, within the content
+
+Special characters:
+
+../essay.doxc -- ".." goes up a level
+./dog.png -- "." use the current directory (where item is current within the folder)
+
+
+
+
+
+
+
+
+
+
+
+
+
