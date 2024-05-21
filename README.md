@@ -9,7 +9,7 @@ https://www.submarinecablemap.com/submarine-cable/firmina - Submarine Cable
 https://www.keybr.com/ - increase typing speed
 https://www.lipsum.com/ - free text/placxeholder text
 https://www.broipsum.com/ - free text/placxeholder text
-
+https://www.diffchecker.com/ - check difference of code
 HTML Tags:
 
 
