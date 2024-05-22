@@ -10,3 +10,31 @@ p {
   margin: 0;
   padding: 0;
 }
+
+/* my code */
+
+.inner-box{
+  background-color: red;
+}
+
+.white-text{
+  color: white;
+}
+
+#outer-box{
+  border: 10px solid purple;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
