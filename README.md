@@ -16,6 +16,10 @@ https://fonts.google.com/ - free fonts
 
 https://saijogeorge.com/css-puns/
 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks - flexbox guide and more
+
+https://appbrewery.github.io/flex-layout/- flexbox playground
+
 https://appbrewery.github.io/css-inspection/ - homework
 
 https://www.csfieldguide.org.nz/en/chapters/ - chekc this out
