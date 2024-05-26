@@ -13,7 +13,8 @@
     .container {
       color: white;
       border: 5px solid gold;
-      display: flex;
+      display:inline-flex;
+      flex-direction: column;
     }
 
     /*
@@ -28,6 +29,11 @@ children of the .container class.
     .blue {background-color: #4834d4;}
     .indigo {background-color: #30336b;}
     .purple {background-color: #be2edd;}
+
+    .container div{
+      
+      flex-basis: 100px;
+    }
   </style>
 </head>
 
