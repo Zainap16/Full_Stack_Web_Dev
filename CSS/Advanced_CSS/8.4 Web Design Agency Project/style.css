@@ -68,8 +68,10 @@ h1 > span {
   float: right;
 }
 
-.right > .card-title.card-text {
-  text-align: right;
+p {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
 }
 
 /* .right {
