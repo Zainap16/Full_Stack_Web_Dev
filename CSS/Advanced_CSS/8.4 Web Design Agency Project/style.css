@@ -25,65 +25,47 @@ h1 > span {
 /* [lightsalmon] Mobile Devices: 319px — 480px
 [powderblue] iPads and Tablets: 481px — 1200px 
 1201px — 1600px */
-/* .card{
-  display: flex;
-  flex: 1;
-} */
-
-/* .card{
-  display: flex;
-  flex: 1;
-} */
-
-/* @media (min-width: 1201px) and (max-width:1600px){
-  .left{
-    
-      float: left;
-      font-size: medium;
-      
-      
-  }
-  .tile-image{
-    height: 200px;
-      width: 200px;
-  }
-
-  .right{
-  
-    float: right;
-    font-size: medium;
-
-} */
-
-
-.left > .tile-image{
-  width: 250px;
-  height: 250px;
+.tile-image {
+  height: 200px;
+  float: left;
+  margin-right: 50px;
+}
+.left{
   float: left;
 }
 
-.right> .tile-image{
-  width: 250px;
-  height: 250px;
+.right {
   float: right;
 }
 
-p {
-  display: inline-block;
-  width: 200px;
-  height: 100px;
+.card {
+  width: 45%;
 }
 
-/* .right {
-  float: right;
-  } */
+@media (max-width: 680px) {
+  .logo {
+    width: 100px;
+  }
 
-/* footer{
-  clear: both;
-} */
+  h1 {
+    font-size: 3.5rem;
+    text-align: center;
+  }
 
+  .card {
+    width: 100%;
+    display: block;
+    margin-bottom: 30px;
+    text-align: justify;
+  }
 
-
+  .card img {
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline;
+    object-fit: cover;
+  }
+}
 
 
 
