@@ -30,12 +30,12 @@ h1 > span {
   flex: 1;
 } */
 
-.card{
+/* .card{
   display: flex;
   flex: 1;
-}
+} */
 
-@media (min-width: 1201px) and (max-width:1600px){
+/* @media (min-width: 1201px) and (max-width:1600px){
   .left{
     
       float: left;
@@ -53,18 +53,32 @@ h1 > span {
     float: right;
     font-size: medium;
 
-}
-
-
-/* .tile-image > p {
-  float: right;
 } */
 
+
+.left > .tile-image{
+  width: 250px;
+  height: 250px;
+  float: left;
 }
 
-footer{
-  clear: both;
+.right> .tile-image{
+  width: 250px;
+  height: 250px;
+  float: right;
 }
+
+.right > .card-title.card-text {
+  text-align: right;
+}
+
+/* .right {
+  float: right;
+  } */
+
+/* footer{
+  clear: both;
+} */
 
 
 
