@@ -15,9 +15,15 @@ font size:
 1rem- 100% of root, move relative to it-- html, very recommended
 
 
+Grouping Selectors:
 
+group selector: h1, h2{}
 
+child selector: h1 > p {}  :(direct child, first element of the parent)
 
+descendant: selector selector {}
+
+chaining
 
 
 
