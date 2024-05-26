@@ -25,7 +25,19 @@ descendant: selector selector {}
 
 chaining
 
+Display CSS Property
 
+block - take entire width
+inline - take as much as needed, can't edit width and height
+inline-block : take as needed can edit width and height
+none - vanish
 
+FLoat: wrap aorund text
+
+left, right, center?
+
+footer{
+    clear: left;
+}
 
 

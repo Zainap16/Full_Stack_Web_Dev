@@ -19,3 +19,66 @@ footer {
   color: midnightblue;
 }
 
+h1 > span {
+  color: midnightblue;
+}
+/* [lightsalmon] Mobile Devices: 319px — 480px
+[powderblue] iPads and Tablets: 481px — 1200px 
+1201px — 1600px */
+/* .card{
+  display: flex;
+  flex: 1;
+} */
+
+.card{
+  display: flex;
+  flex: 1;
+}
+
+@media (min-width: 1201px) and (max-width:1600px){
+  .left{
+    
+      float: left;
+      font-size: medium;
+      
+      
+  }
+  .tile-image{
+    height: 200px;
+      width: 200px;
+  }
+
+  .right{
+  
+    float: right;
+    font-size: medium;
+
+}
+
+
+/* .tile-image > p {
+  float: right;
+} */
+
+}
+
+footer{
+  clear: both;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
