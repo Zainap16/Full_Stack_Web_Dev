@@ -14,6 +14,7 @@ https://picsum.photos/ - random pics
 https://colorhunt.co/ - color palettes
 https://fonts.google.com/ - free fonts
 
+https://saijogeorge.com/css-puns/
 
 https://appbrewery.github.io/css-inspection/ - homework
 
