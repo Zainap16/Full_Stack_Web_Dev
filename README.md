@@ -14,7 +14,11 @@ https://picsum.photos/ - random pics
 https://colorhunt.co/ - color palettes
 https://fonts.google.com/ - free fonts
 
+https://html5up.net/ - free temlpates
+
 https://saijogeorge.com/css-puns/
+
+https://flexboxfroggy.com/ - flexbox froggy : refresh flexbox
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/#aa-flexbox-tricks - flexbox guide and more
 
