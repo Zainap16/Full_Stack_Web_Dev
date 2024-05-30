@@ -16,6 +16,10 @@ https://fonts.google.com/ - free fonts
 
 https://html5up.net/ - free temlpates
 
+https://angrytools.com/gradient/ - gradient tool
+
+https://imgbb.com/ - upload images and get link to it
+https://teams.microsoft.com/
 https://saijogeorge.com/css-puns/
 
 https://flexboxfroggy.com/ - flexbox froggy : refresh flexbox
