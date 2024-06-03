@@ -19,11 +19,66 @@
     HINT: Remember you can't change the properties of grid lines.
     But grid lines are transparent!
     */
+
+    .grid-container{
+      display: grid;
+      grid-template-columns: 320px 198px 153px 50px;
+      grid-template-rows: 414px 130px 155px 22px;
+      width: 748px;
+      height: 748px;
+      gap: 9px;
+      background-color: black;
+      
+    }
+
+   .item{
+    background-color: white;
+   }
+
+    .red{
+      background-color: #E72F24;
+      width: 320px;
+     
+    }
+
+    .black{
+      background-color: #232629;
+      width: 153px;
+      height: 20px;
+      
+    }
+
+    .blue{
+      background-color: #004592;
+      
+      height: 130px;
+    }
+
+    .yellow{
+      background-color: #F9D01E;
+      
+      height: 20px;
+    }
+   
+    
   </style>
 </head>
 
 <body>
   <!-- Write your HTML here -->
+  <div class="grid-container">
+    <div class="item red"></div>
+
+    <div class="item white1" ></div>
+    <div class="item white2" ></div>
+    <div class="item white3" ></div>
+
+    <div class="item blue"></div>
+    <div class="item white4" ></div>
+    
+    <div class="item yellow"></div>
+    <div class="item black"></div>
+  </div>
 </body>
 
 </html>
