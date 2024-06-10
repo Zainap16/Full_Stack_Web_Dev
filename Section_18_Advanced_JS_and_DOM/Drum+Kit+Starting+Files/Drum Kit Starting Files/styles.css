@@ -10,14 +10,14 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
-
+/* var images = [,"./images/tom-2.png","./images/tom-3.png","./images/tom-4.png","./images/crash.png","./images/snare.png","./images/kick.png"]; */
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
 .w {
-
+  background-image: url("./images/tom-1.png") ;
 }
 
 .a {
