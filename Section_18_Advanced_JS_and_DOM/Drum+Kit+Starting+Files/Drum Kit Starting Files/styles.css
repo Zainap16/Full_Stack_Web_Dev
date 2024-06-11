@@ -10,38 +10,40 @@ h1 {
   text-shadow: 3px 0 #DA0463;
 
 }
-/* var images = [,"./images/tom-2.png","./images/tom-3.png","./images/tom-4.png","./images/crash.png","./images/snare.png","./images/kick.png"]; */
+
 footer {
   color: #DBEDF3;
   font-family: sans-serif;
 }
 
 .w {
-  background-image: url("./images/tom-1.png") ;
+  background-image: url("./images/tom1.png") ;
+
 }
 
 .a {
-
+  background-image: url("./images/tom2.png") ;
 }
 
 .s {
-
+  background-image: url("./images/tom3.png") ;
 }
 
 .d {
-
+  background-image: url("./images/tom4.png") ;
 }
 
 .j {
-
+  background-image: url("./images/snare.png") ;
 }
 
 .k {
-
+ 
+  background-image: url("./images/crash.png") ;
 }
 
 .l {
-
+  background-image: url("./images/kick.png") ;
 }
 
 .set {
